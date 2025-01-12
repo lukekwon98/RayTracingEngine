@@ -13,3 +13,5 @@ This project is a lightweight, CPU-based ray tracing engine that demonstrates fo
 - **Anti-Aliasing**: Smooths rendered images by averaging multiple samples per pixel.
 - **Depth of Field**: Configurable focus and defocus for camera realism.
 - **Multithreaded Rendering**: Optimized rendering pipeline.
+
+![alt text](https://github.com/lukekwon98/RayTracingEngine/blob/main/image.jpg?raw=true)
